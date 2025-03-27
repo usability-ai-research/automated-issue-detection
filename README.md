@@ -35,7 +35,7 @@ Not published yet.
 - *citedBy*: The number of times the publication has been cited by other works.
 - *citedByPerYear*: The average number of citations the publication receives per year.
 - *quality*: Publication's quality, accorsing to journal quartiles of conference rankings.
-- *area*: The specific research area or domain the publication pertains to.
+- *objective*: The specific research objective or domain the publication pertains to.
 - *technology*: The technology or tools or utilized in the publication.
 - *data*: Information about the type or source of data used in the research.
 - *participants*: Whether the participants involved in the research.
@@ -47,7 +47,7 @@ Not published yet.
 
 ### Charts
 
-![](./charts/area-cite.jpg)
+![](./charts/area-cite.svg)
 Figure: Average per-year citations or research objectives.
 
 ![](./charts/area-tech.jpg)
