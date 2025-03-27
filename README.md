@@ -17,7 +17,7 @@ Not published yet.
 
 ## Data
 
-[Final dataset](./data/dataset.csv) of publication sources contains 151 research publications, bibliographic data and relevant extracted data fields:
+[Final dataset](./data/dataset.csv) of publication sources contains 155 research publications, bibliographic data and relevant extracted data fields:
 - *title*: The full title of the research publication.
 - *author*: The names of the authors who contributed to the publication.
 - *year*: The year the publication was released.
@@ -45,49 +45,48 @@ Not published yet.
 
 ## Extended results
 
+Extended results include additional charts and visualizations that did not fit into the article.
+
 ### Charts
 
-![](./charts/area-cite.svg)
+![](./charts/area-cite.svg)\
 Figure: Average per-year citations or research objectives.
 
-![](./charts/area-tech.jpg)
+![](./charts/area-tech.svg)\
 Figure: Proportion of technologies across research objectives.
 
-![](./charts/area-data.jpg)
+![](./charts/area-data.svg)\
 Figure: Proportion of data sources across research objectives.
 
-![](./charts/area-AI.jpg)
+![](./charts/area-AI.svg)\
 Figure: Proportion of AI technologies across research objectives.
 
-![](./charts/area-maturity.jpg)
+![](./charts/area-maturity.svg)\
 Figure: Proportion of solution maturity across research objectives.
 
-![](./charts/area-device.jpg)
+![](./charts/area-device.svg)\
 Figure: Proportion of utilized devices across research objectives.
 
-![](./charts/tech-cite.jpg)
+![](./charts/tech-cite.svg)\
 Figure: Average per-year citations or used technologies.
 
-![](./charts/data-cite.jpg)
+![](./charts/data-cite.svg)\
 Figure: Average per-year citations or used data sources.
 
-![](./charts/data-year.jpg)
+![](./charts/data-year.svg)\
 Figure: Data sources across years.
 
-![](./charts/AI.jpg)
+![](./charts/AI.svg)\
 Figure: Proiportions of used AI technologies.
 
-![](./charts/AI-cite.jpg)
+![](./charts/AI-cite.svg)\
 Figure: Average per-year citations or used AI technologies.
 
-![](./charts/maturity-cite.jpg)
+![](./charts/maturity-cite.svg)\
 Figure: Average per-year citations or solution maturity.
 
-![](./charts/maturity-year.jpg)
+![](./charts/maturity-year.svg)\
 Figure: Solution maturity across years.
-
-![](./charts/device-cite.jpg)
-Figure: Average per-year citations or used devices.
 
 ### Abstract and keywords
 
