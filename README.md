@@ -1,8 +1,8 @@
-# Systematic Literature Review of Automated Usability Problem Detection Methods.
+# Systematic Literature Review of Automation and Artificial Intelligence in Usability Issue Detection.
 
 ## About
 
-This repository contains the official materials for the research paper *"Systematic Literature Review of Automated Usability Problem Detection Methods."*. The paper explores automated methods for detecting usability issues, offering a systematic literature review of studies published between 2014 and 2024. It highlights various research areas, methodologies, the use of artificial intelligence, and the use of real participants across these publications.
+This repository contains the official materials for the research paper *"Systematic Literature Review of Automation and Artificial Intelligence in Usability Issue Detection."*. The paper explores automated methods for detecting usability issues, offering a systematic literature review of studies published between 2014 and 2024. It highlights various research areas, methodologies, the use of artificial intelligence, and the use of real participants across these publications.
 
 ### Paper citation
 
