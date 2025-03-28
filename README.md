@@ -93,6 +93,9 @@ Figure: Solution maturity across years.
 ![](./charts/keyword-clusters.png)
 Figure: Keyword clusters made from publication keywords. [VOSviewer](https://www.vosviewer.com/) was utilized.
 
+![](./charts/keyword-cloud.jpg)
+Figure: Keyword cloud made from publication keywords.
+
 ![](./charts/abstract-cloud.png)
 Figure: Keyword cloud made from publication abstracts.
 
