@@ -1,4 +1,4 @@
-# Systematic Literature Review of Automation and Artificial Intelligence in Usability Issue Detection.
+# Systematic Literature Review of Automation and Artificial Intelligence in Usability Issue Detection
 
 ## About
 
